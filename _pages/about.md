@@ -6,7 +6,7 @@ subtitle: "Groups, as men, will be known by their actions."
 
 profile:
   align: right
-  image: tero_cafe_small.jpg
+  image: tero_polyhedra.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <div class='card hoverable mt-2 p-2 '>
