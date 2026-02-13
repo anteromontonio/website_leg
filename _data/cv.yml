@@ -113,28 +113,28 @@
   type: time_table
   contents:
     - title: Docent (Assistant professor)
-      department: University of Ljubljana
+      institution: University of Ljubljana
       location: Slovenia
       year: 2024 - 2029
 
     - title: Candidato a investigador nacional (National research candidate)
-      department: National Council of Humanities, Science and Technology (CONAHCyT)
+      institution: National Council of Humanities, Science and Technology (CONAHCyT)
       location: Mexico
       year: 2021 - 2024
 
     - title: Best student talk award
-      department: 8th PhD Summer School in Discrete Mathematics
+      institution: 8th PhD Summer School in Discrete Mathematics
       year: 2018
       location: Rogla, Slovenia
    
     - title: Award "Padre de la patria"
-      department: University of Michoacan (UMSNH)
+      institution: University of Michoacan (UMSNH)
       year: 2012
       location: Morelia, Mexico
       maindescription: Award given to the best student of each year.
 
     - title: Award "Padre de la patria"
-      department: University of Michoacan (UMSNH)
+      institution: University of Michoacan (UMSNH)
       year: 2011
       location: Morelia, Mexico
       maindescription: Award given to the best student of each year.
