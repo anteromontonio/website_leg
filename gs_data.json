@@ -1,0 +1,205 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "publications"
+  ],
+  "scholar_id": "GEJHkg0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Antonio Montero",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GEJHkg0AAAAJ&citpid=3",
+  "affiliation": "Research assistant FMF-UL Ljubljana, SI",
+  "interests": [
+    "Symmetries of discrete objects"
+  ],
+  "email_domain": "@fmf.uni-lj.si",
+  "citedby": 29,
+  "citedby5y": 26,
+  "hindex": 4,
+  "hindex5y": 3,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2020": 1,
+    "2021": 3,
+    "2022": 4,
+    "2023": 1,
+    "2024": 1,
+    "2025": 8,
+    "2026": 9
+  },
+  "publications": {
+    "GEJHkg0AAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Voltage operations on maniplexes, polytopes and maps",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1348910115750744770,15145391836057606201",
+      "cites_id": [
+        "1348910115750744770",
+        "15145391836057606201"
+      ]
+    },
+    "GEJHkg0AAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Equivelar toroids with few flag-orbits",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3081960816366408922",
+      "cites_id": [
+        "3081960816366408922"
+      ]
+    },
+    "GEJHkg0AAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Locally spherical hypertopes from generlised cubes",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2247696405636601808",
+      "cites_id": [
+        "2247696405636601808"
+      ]
+    },
+    "GEJHkg0AAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regular polyhedra in the 3-torus: Dedicated to Enrique Rodriguez Castillo, a beloved friend and colleague whom we all are going to miss",
+        "pub_year": "2018"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12173241879178675660",
+      "cites_id": [
+        "12173241879178675660"
+      ]
+    },
+    "GEJHkg0AAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proper locally spherical hypertopes of hyperbolic type",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5015406740102684706",
+      "cites_id": [
+        "5015406740102684706"
+      ]
+    },
+    "GEJHkg0AAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cayley extensions of maniplexes and polytopes",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3595837942227773996",
+      "cites_id": [
+        "3595837942227773996"
+      ]
+    },
+    "GEJHkg0AAAAJ:W7OEmFMy1HYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Symmetries of voltage operations on polytopes, maps and maniplexes",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15106196457376763587",
+      "cites_id": [
+        "15106196457376763587"
+      ]
+    },
+    "GEJHkg0AAAAJ:eQOLeE2rZwMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chiral extensions of regular toroids",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1338219741503894499",
+      "cites_id": [
+        "1338219741503894499"
+      ]
+    },
+    "GEJHkg0AAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the Schläfli symbol of chiral extensions of polytopes",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379740481686606977",
+      "cites_id": [
+        "7379740481686606977"
+      ]
+    },
+    "GEJHkg0AAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Faithfulness in maniplexes",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    "GEJHkg0AAAAJ:YsMSGLbcyi4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vertex-transitive graphs with small motion and transitive permutation groups with small minimal degree",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    "GEJHkg0AAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chiral extensions of toroids",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "GEJHkg0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  },
+  "updated": "2026-09-06 07:18:10.273200"
+}
